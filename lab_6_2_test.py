@@ -1,11 +1,8 @@
-from read_log import read_lines
 from read_log import read_log
 from lab_6_2_klasy import OdrzucenieHasla, AkceptacjaHasla, Blad, Inne
 
 
 if __name__ == '__main__':
-    # lines = read_lines(None)
-    # for line in lines:
     lista_dict = read_log(None)
     for dict in lista_dict:
         if "Accepted password" in dict.get("message"):
