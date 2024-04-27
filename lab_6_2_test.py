@@ -35,3 +35,6 @@ if __name__ == '__main__':
 
     print("Error Message:", blad_objekt.blad_message)
     print("Inny Message:", inne_objekt.inne_message)
+
+    # TEST:    type SSH.log | python lab_6_2_test.py
+

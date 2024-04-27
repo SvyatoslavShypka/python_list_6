@@ -1,5 +1,3 @@
-import re
-from ipaddress import IPv4Address
 from lab_5_1_3statistics import convert_str_to_datetime
 from ssh_log_entry import SSHLogEntry
 from lab_5_1_1 import get_user_from_log, get_ipv4s_from_log
