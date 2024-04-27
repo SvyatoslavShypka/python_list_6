@@ -1,6 +1,5 @@
 from read_log import read_log
 from ssh_log_entry import SSHLogEntry
-from datetime import datetime
 from lab_5_1_3statistics import convert_str_to_datetime
 
 if __name__ == '__main__':

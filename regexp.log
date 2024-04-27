@@ -23,4 +23,5 @@ Dec 13 16:32:20 LabSZ sshd[24680]: pam_unix(sshd:session): session opened for us
 Dec 13 16:32:35 LabSZ sshd[24787]: Invalid user matlab from 52.80.34.196
 Dec 13 16:45:06 LabSZ sshd[24680]: pam_unix(sshd:session): session closed for user jmzhu
 Dec 13 16:45:08 LabSZ sshd[24680]: pam_unix(sshd:session): session closed for user fztu
+Dec 10 07:51:15 LabSZ sshd[24324]: error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]
 
