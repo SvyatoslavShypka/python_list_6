@@ -52,4 +52,5 @@ if __name__ == '__main__':
     print("Accepted password entry is greater than failed password entry:",
           akceptacja_hasla_objekt > odrzucenie_hasla_objekt)  # True
 
+
     # TEST:    type SSH.log | python lab_6_3-6_test.py
