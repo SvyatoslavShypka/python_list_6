@@ -19,7 +19,7 @@ if __name__ == '__main__':
     lines = read_lines(None)
     for line in lines:
         journal.append(line)
-    print(len(journal))  # Powinno być 1
+    print(len(journal))
 
     for entry in journal:
         print(entry)
